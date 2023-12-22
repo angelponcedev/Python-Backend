@@ -35,3 +35,4 @@ alumn1.attend_classes(["math","english"])
 print(alumn2.study("physics"))
 print(alumn2.do_homework(2,25))
 alumn2.attend_classes(["physics","chemistry","Physical Education"])
+
