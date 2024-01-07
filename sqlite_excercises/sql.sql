@@ -34,3 +34,5 @@
 -- DELETE FROM USERS WHERE username = "Dog";
 
 -- SELECT * from USERS;
+
+SELECT * FROM customers;
